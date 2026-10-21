@@ -4,6 +4,8 @@ import Stats from './components/Stats.jsx'
 import About from './components/About.jsx'
 import Services from './components/Services.jsx'
 import Process from './components/Process.jsx'
+import CtaBanner from './components/CtaBanner.jsx'
+import Showcase from './components/Showcase.jsx'
 import Testimonials from './components/Testimonials.jsx'
 import FAQ from './components/FAQ.jsx'
 import Contact from './components/Contact.jsx'
@@ -19,6 +21,8 @@ export default function App() {
         <About />
         <Services />
         <Process />
+        <CtaBanner />
+        <Showcase />
         <Testimonials />
         <FAQ />
         <Contact />
