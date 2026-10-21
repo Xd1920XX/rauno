@@ -14,16 +14,12 @@ const faqs = [
     a: 'Kui oled valmis end filmima ja ausalt tagasisidet andma — jah. Paljud veebi klientidest on jõudnud sama kaugele kui kohapealsed. Peamine on järjepidevus.',
   },
   {
-    q: 'Mis juhtub, kui ma vahele jään?',
+    q: 'Mis juhtub, kui trenn vahele jääb?',
     a: 'Elu juhtub. Kava kohandub. Üks nädal haige voodis või reisil ei nulli progressi — see on sisse ehitatud süsteemi.',
   },
   {
-    q: 'Kuidas ma maksan?',
-    a: 'Arve e-posti, ülekanne. Veebinõustamine on kuutasuga, ühekordsed teenused ettemaksuga. Lepingu pikkust ega sunniviisil siduvat ei ole.',
-  },
-  {
     q: 'Kus jõusaal asub?',
-    a: 'Kuressaare kesklinnas. Täpne aadress ja ligipääsu üksikasjad saadan pärast esimest kõnet.',
+    a: 'Tallinna tn 65, Kuressaare. Täpsed ligipääsu üksikasjad saadan pärast esimest kõnet.',
   },
 ]
 

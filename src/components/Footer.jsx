@@ -16,6 +16,7 @@ export default function Footer() {
           <a href="#teenused">Toitumisnõustamine</a>
           <a href="#teenused">Veebinõustamine</a>
           <a href="#teenused">Personaaltreening</a>
+          <a href="#teenused">Treeningpakett</a>
         </div>
         <div className="footer__col">
           <h4>Leht</h4>
@@ -28,7 +29,7 @@ export default function Footer() {
           <a href="tel:+37253480590">+372 5348 0590</a>
           <a href="mailto:pajarauno1@gmail.com">pajarauno1@gmail.com</a>
           <a href="https://www.instagram.com/rauno_paja" target="_blank" rel="noreferrer">@rauno_paja</a>
-          <span>Kuressaare, Saaremaa</span>
+          <span>Tallinna tn 65, Kuressaare</span>
         </div>
       </div>
       <div className="container footer__bar">

@@ -61,7 +61,6 @@ const services = [
     unit: 'kord',
     desc: 'Üks-ühele treening Kuressaare jõusaalis. Tehnika, intensiivsus ja motivatsioon kohapeal — just siis, kui seda vaja on.',
     features: [
-      '24/7 ligipääs jõusaali',
       'Tehnika ja soorituse ülevaatus',
       'Reaalajas kohandused',
       'Paindlik ajavalik',
@@ -72,6 +71,28 @@ const services = [
         <path d="M6 21v-2a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v2" />
       </svg>
     ),
+  },
+  {
+    tag: 'Parim väärtus',
+    title: 'Treeningpakett',
+    price: '240 €',
+    unit: 'kuus',
+    desc: 'Kõik ühes paketis — 4 kohapealset treeningut, täielik kava ja järjepidev suhtlus. Sulle, kes tahab süsteemi ja saali kohapeal.',
+    features: [
+      '4 treeningut treeneriga kuus',
+      'Individuaalne treeningkava',
+      'Toitumiskava',
+      '24/7 suhtlus ja tugi',
+      'Progressi jälgimine',
+    ],
+    icon: (
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M12 2 2 7l10 5 10-5-10-5Z" />
+        <path d="m2 17 10 5 10-5" />
+        <path d="m2 12 10 5 10-5" />
+      </svg>
+    ),
+    highlight: true,
   },
 ]
 

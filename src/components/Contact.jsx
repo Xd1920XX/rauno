@@ -73,7 +73,7 @@ export default function Contact() {
               </div>
               <div>
                 <span>Asukoht</span>
-                <strong>Kuressaare, Saaremaa</strong>
+                <strong>Tallinna tn 65, Kuressaare</strong>
               </div>
             </div>
           </div>
@@ -97,6 +97,7 @@ export default function Contact() {
               <option>Toitumisnõustamine</option>
               <option>Veebinõustamine</option>
               <option>Personaaltreening</option>
+              <option>Treeningpakett</option>
               <option>Tasuta konsultatsioon</option>
             </select>
           </label>
