@@ -5,7 +5,6 @@ import About from './components/About.jsx'
 import Services from './components/Services.jsx'
 import Process from './components/Process.jsx'
 import Testimonials from './components/Testimonials.jsx'
-import Gallery from './components/Gallery.jsx'
 import FAQ from './components/FAQ.jsx'
 import Contact from './components/Contact.jsx'
 import Footer from './components/Footer.jsx'
@@ -21,7 +20,6 @@ export default function App() {
         <Services />
         <Process />
         <Testimonials />
-        <Gallery />
         <FAQ />
         <Contact />
       </main>

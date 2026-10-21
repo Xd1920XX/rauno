@@ -5,7 +5,6 @@ const links = [
   { href: '#minust', label: 'Minust' },
   { href: '#teenused', label: 'Teenused' },
   { href: '#protsess', label: 'Protsess' },
-  { href: '#galerii', label: 'Galerii' },
   { href: '#kontakt', label: 'Kontakt' },
 ]
 

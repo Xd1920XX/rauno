@@ -21,7 +21,6 @@ export default function Footer() {
           <h4>Leht</h4>
           <a href="#minust">Minust</a>
           <a href="#protsess">Protsess</a>
-          <a href="#galerii">Galerii</a>
           <a href="#kontakt">Kontakt</a>
         </div>
         <div className="footer__col">
