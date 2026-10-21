@@ -403,8 +403,8 @@ button {
   position: absolute;
   inset: 0;
   background-image:
-    linear-gradient(180deg, rgba(10, 10, 11, 0.15) 0%, rgba(10, 10, 11, 0.75) 100%),
-    url('/images/hero.jpeg');
+    linear-gradient(180deg, rgba(10, 10, 11, 0.1) 0%, rgba(10, 10, 11, 0.6) 100%),
+    url('/images/about.jpeg');
   background-size: cover;
   background-position: center;
 }
@@ -414,7 +414,7 @@ button {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(circle at 70% 20%, rgba(212, 121, 79, 0.25), transparent 55%);
+    radial-gradient(circle at 70% 20%, rgba(212, 121, 79, 0.3), transparent 60%);
   mix-blend-mode: screen;
 }
 
@@ -949,12 +949,12 @@ button {
   transform: scale(1.06);
 }
 
-.gallery__item--1 .gallery__photo { background-image: url('/images/gallery-1.jpeg'); }
-.gallery__item--2 .gallery__photo { background-image: url('/images/gallery-2.jpg'); }
-.gallery__item--3 .gallery__photo { background-image: url('/images/gallery-3.jpg'); }
-.gallery__item--4 .gallery__photo { background-image: url('/images/gallery-4.jpg'); background-position: center 30%; }
-.gallery__item--5 .gallery__photo { background-image: url('/images/gallery-5.jpg'); }
-.gallery__item--6 .gallery__photo { background-image: url('/images/gallery-6.jpg'); }
+.gallery__item--1 .gallery__photo { background-image: url('/images/gallery-5.jpg'); background-position: center 20%; }
+.gallery__item--2 .gallery__photo { background-image: url('/images/gallery-3.jpg'); }
+.gallery__item--3 .gallery__photo { background-image: url('/images/gallery-4.jpg'); background-position: center 30%; }
+.gallery__item--4 .gallery__photo { background-image: url('/images/gallery-6.jpg'); background-position: center 15%; }
+.gallery__item--5 .gallery__photo { background-image: url('/images/gallery-1.jpeg'); }
+.gallery__item--6 .gallery__photo { background-image: url('/images/hero.jpeg'); }
 
 .gallery__overlay {
   position: absolute;

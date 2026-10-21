@@ -1,10 +1,10 @@
 const items = [
-  { title: 'Jõusaal · Kuressaare', tag: 'Ruum' },
-  { title: 'Jõutõmme tehnika', tag: 'Treening' },
-  { title: 'Vabade raskuste tsoon', tag: 'Ruum' },
-  { title: 'Kükitehnika seansil', tag: 'Treening' },
-  { title: 'Toitumisplaani näide', tag: 'Toitumine' },
-  { title: 'Online tagasiside', tag: 'Veeb' },
+  { title: 'Vorm, mis räägib ise', tag: 'Treener' },
+  { title: 'Toitumine, mis töötab', tag: 'Toitumine' },
+  { title: 'Plaan paberil', tag: 'Nõustamine' },
+  { title: 'Treeneri tase', tag: 'Treener' },
+  { title: 'Liikuvuse töö', tag: 'Treening' },
+  { title: 'Üks-ühele seanss', tag: 'Treening' },
 ]
 
 export default function Gallery() {
