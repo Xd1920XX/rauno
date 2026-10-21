@@ -608,6 +608,19 @@ button {
   align-items: flex-start;
 }
 
+.about__motto {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(1.15rem, 1.8vw, 1.4rem);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.35;
+  color: var(--text);
+  padding: 1rem 1.25rem;
+  border-left: 3px solid var(--accent);
+  background: var(--accent-soft);
+  border-radius: 0 10px 10px 0;
+}
+
 .about__list {
   display: flex;
   flex-direction: column;

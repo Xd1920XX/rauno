@@ -14,8 +14,11 @@ export default function About() {
         <div className="about__content">
           <span className="eyebrow">Minust</span>
           <h2 className="section__title">
-            Treener, kes <span className="accent">ei kao</span> ära esimese nädala järel.
+            Treener, kes käib sinuga <span className="accent">lõpuni</span>.
           </h2>
+          <p className="about__motto">
+            Koos muudame head kavatsused <span className="accent">püsivateks harjumusteks</span>.
+          </p>
           <p className="section__lead">
             Mina olen Rauno Paja. Alustasin personaaltreeneri teed, kui nägin
             oma silmaga, kuidas õige treening ja toitumine suudavad inimese
