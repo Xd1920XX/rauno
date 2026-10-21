@@ -1,6 +1,6 @@
 const stats = [
   { num: '12+', label: 'aastat treenerina' },
-  { num: '400+', label: 'kliente nõustatud' },
+  { num: '40+', label: 'kliente nõustatud' },
   { num: '98%', label: 'soovitavad edasi' },
   { num: '7', label: 'päeva nädalas tugi' },
 ]
